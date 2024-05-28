@@ -3,7 +3,7 @@
 
 # Team05 🛺 🚕 🏍️
 
-<hr>
+
 
 | Name |Bits ID | Github ID |
 | :---         |     :---:      |          ---: |
@@ -20,6 +20,43 @@
 
 ![GitHub forks](https://img.shields.io/github/forks/JasmitaChandran24/SWENGG4Y2024Team05?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/JasmitaChandran24/SWENGG4Y2024Team05?style=social) ![GitHub contributors](https://img.shields.io/github/contributors/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub license](https://img.shields.io/github/license/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub repo size](https://img.shields.io/github/repo-size/JasmitaChandran24/SWENGG4Y2024Team05)
 
+## Tez Yatra
+Tez Yatra is an online platform that helps people get from one place to another quickly and conveniently. Instead of waiting for a bus or looking for a taxi on the street, you can use Tez Yatra to book a ride right from your phone. 
+Tez Yatra is designed to make traveling around your city easier and more efficient by leveraging modern technology to connect passengers with drivers.
 
+## How It Works:
 
+### Choose Your Ride: 
+You can select from different types of vehicles like bikes, cabs, or auto-rickshaws, depending on what you need and how much you're willing to spend.
+
+### Book a Ride: 
+Open the Tez Yatra app or website, enter your pickup location and destination, and request a ride. The app will show you the available vehicles nearby.
+
+### Get Picked Up: 
+A driver will accept your request and come to pick you up at your specified location.
+
+### Travel to Your Destination: 
+Sit back and enjoy the ride to your destination. You can track your ride in real-time on the app.
+
+### Pay for Your Ride: 
+You can pay for the service through various methods, such as cash, credit/debit cards, or digital wallets, depending on what the app supports.
+
+## Benefits of Tez Yatra:
+### Convenience: 
+Easily book a ride from anywhere using your smartphone.
+### Variety: 
+Choose the type of vehicle that best suits your needs.
+### Speed: 
+Get picked up quickly, often faster than waiting for traditional public transport.
+### Safety: 
+Track your ride and share your trip details with friends or family.
+
+# Documents
+
+## Stakeholder Document - Here
+## User requirements document (URD) Document - Here
+## Software Requirements Specification (SRS) Document - Here
+## Architecture Document- Here
+## Software Design Document- Here
+## Tez Yatra App Testing Document- Here
 
