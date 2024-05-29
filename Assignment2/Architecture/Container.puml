@@ -1,0 +1,28 @@
+RECTANGLE MobileApp <<TezYatra>> {
+    [Passenger Mobile App]
+    [Driver Mobile App]
+}
+
+RECTANGLE Services <<TezYatra>> {
+    [User Service]
+    [Ride Service]
+    [Payment Service]
+    [Notification Service]
+    [Map Service]
+    [Rating Service]
+    [Support Service]
+}
+
+RECTANGLE Database <<TezYatra>> {
+    [User Database]
+    [Ride Database]
+    [Payment Database]
+    [Notification Database]
+    [Rating Database]
+    [Support Database]
+}
+
+rectangle "External Services" as ExternalServices {
+    [Payment Gateway]
+    [Map Service]
+}
