@@ -24,16 +24,7 @@
 
 ## 1. Introduction
    - ### 1.1 Purpose
-     Aim of this software specification requirements document is to provide a complete description of all of the features that are planned to implement to system and define the expectations from the Quick Ride project. 
-
-     It also describeshow the system operates and how users interact with the application. Besides 
-     external systems and interfaces which the application depends, are specified in 
-     this SRS document.
-
-     The potential audiences for this document are design  and development team 
-     of the Quick Ride Project in order to specify software designs. Test team utilizes this 
-     software specification requirements document to define test scenarios according to the mentioned requirements. Besides project manager, quality manager and 
-     acquirer use this SRS document for reviewing purposes.
+     The purpose of this Software Requirements Specification (SRS) document is to detail the functional and non-functional requirements for Project Rapido. The document provides a comprehensive guide for the development and implementation of the Tez Yatra ride-booking platform, ensuring all stakeholders have a clear understanding of the system's capabilities and limitations.
 
    -  ### 1.2 Intended Audience
 
@@ -45,11 +36,24 @@
         These are the individuals who will be providing rides to others. They may be private car owners or professional drivers working for a carpool service provider.
 
       
-      - #### Quick Ride Service Providers
+      - #### Tez Yatra Service Providers
         These are the companies or organizations that provide carpool services to users. They may be ride-sharing companies, transportation network companies, or public transportation agencies.
+        
       
-      - #### Administrators
-        Offline mode is a mode where user can savehis or her favorite videos for watching offline withoutopening website.
+      - #### Testers
+        To create test cases and ensure the system meets the specified requirements.
+        
+
+      - #### Developers
+        To gain detailed knowledge of the system requirements and functionalities.
+        
+
+      - #### Project Managers:
+        To understand the project scope and manage resources.
+
+
+       - #### Stakeholders:
+        To provide a clear overview of the project and its intended outcomes.
 
       
       - #### Regulatary Authorities
