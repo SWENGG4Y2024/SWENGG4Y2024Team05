@@ -58,5 +58,5 @@ Track your ride and share your trip details with friends or family.
 ## Software Requirements Specification (SRS) Document - [SRS](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/blob/main/Assignment1/SRS.md)
 ## Architecture Document- [Architecture Document](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/blob/main/Assignment2/Architecture/Architecture.md)
 ## Software Design Document- [Software Design Document](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/blob/main/Assignment2/Design.md)
-## Tez Yatra App Testing Document- [ez Yatra App Testing Document](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/blob/main/Assignment2/test.md)
+## Tez Yatra App Testing Document- [Tez Yatra App Testing Document](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/blob/main/Assignment2/test.md)
 
