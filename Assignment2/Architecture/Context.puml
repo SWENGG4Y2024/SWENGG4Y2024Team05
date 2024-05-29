@@ -1,0 +1,72 @@
+@startuml
+!define RECTANGLE package
+skinparam package {
+BackgroundColor<< TezYatra >> LightBlue
+BorderColor<< TezYatra >> Black
+BorderThickness<< TezYatra >> 2
+}
+
+actor "Passenger" as Passenger
+actor "Driver" as Driver
+actor "Admin" as Admin
+actor "Support" as Support
+rectangle "Payment Gateway" as PaymentGateway
+rectangle "Notifications" as Notifications
+rectangle "Map Service" as MapService
+
+RECTANGLE TezYatra <<TezYatra>> {
+[Register Account]
+[Login]
+[Book a Ride]
+[Select Vehicle]
+[Get Picked Up]
+[Track Ride]
+[Pay for Ride]
+[Rate Driver]
+[View Ride History]
+[Cancel Ride]
+[Contact Support]
+[Update Profile]
+[Verify Driver]
+[Manage Payments]
+[Monitor Rides]
+[Resolve Issues]
+}
+
+Passenger --> [Register Account]
+Passenger --> [Login]
+Passenger --> [Book a Ride]
+Passenger --> [Select Vehicle]
+Passenger --> [Track Ride]
+Passenger --> [Pay for Ride]
+Passenger --> [Rate Driver]
+Passenger --> [View Ride History]
+Passenger --> [Cancel Ride]
+Passenger --> [Update Profile]
+Passenger --> [Contact Support]
+
+Driver --> [Login]
+Driver --> [Accept Ride Request]
+Driver --> [Get Picked Up]
+Driver --> [Track Ride]
+Driver --> [Rate Passenger]
+Driver --> [Update Profile]
+Driver --> [Verify Driver]
+
+Admin --> [Monitor Rides]
+Admin --> [Manage Payments]
+Admin --> [Resolve Issues]
+Admin --> [Verify Driver]
+
+Support --> [Resolve Issues]
+Support --> [Contact Support]
+
+[Pay for Ride] --> PaymentGateway : "Process Payment"
+[Book a Ride] --> MapService : "Get Route"
+[Track Ride] --> MapService : "Update Location"
+[Get Picked Up] --> Notifications : "Send Pickup Notification"
+[Cancel Ride] --> Notifications : "Send Cancellation Notification"
+[Rate Driver] --> Notifications : "Send Rating Notification"
+[Rate Passenger] --> Notifications : "Send Rating Notification"
+
+@enduml
