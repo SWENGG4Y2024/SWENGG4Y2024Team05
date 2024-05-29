@@ -18,7 +18,7 @@
 
 <br><br>
 
-![GitHub forks](https://img.shields.io/github/forks/JasmitaChandran24/SWENGG4Y2024Team05?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/JasmitaChandran24/SWENGG4Y2024Team05?style=social) ![GitHub contributors](https://img.shields.io/github/contributors/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub license](https://img.shields.io/github/license/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub repo size](https://img.shields.io/github/repo-size/JasmitaChandran24/SWENGG4Y2024Team05)
+![GitHub forks](https://img.shields.io/github/forks/JasmitaChandran24/SWENGG4Y2024Team05?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/JasmitaChandran24/SWENGG4Y2024Team05?style=social) ![GitHub pull requests](https://img.shields.io/github/issues-pr/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub license](https://img.shields.io/github/license/JasmitaChandran24/SWENGG4Y2024Team05) ![GitHub repo size](https://img.shields.io/github/repo-size/JasmitaChandran24/SWENGG4Y2024Team05)
 
 ## Tez Yatra
 Tez Yatra is an online platform that helps people get from one place to another quickly and conveniently. Instead of waiting for a bus or looking for a taxi on the street, you can use Tez Yatra to book a ride right from your phone. 
