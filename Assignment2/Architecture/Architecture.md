@@ -14,7 +14,13 @@ Non-technical stakeholders, such as project sponsors and business analysts.
 
 ![image](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/assets/161967498/370f2a41-697a-4f33-ac01-ffd7b0d93dd1)
 
-Explanation:
+## Explanation:
+
+- Users can register, log in, book rides, track them, pay, rate drivers/passengers, view ride history, and manage profiles.
+- Drivers have additional functionalities like accepting ride requests and rating passengers. 
+- Admins monitor rides, manage payments, resolve issues, and verify drivers. Support staff resolve user issues.
+- External services include Payment Gateway for processing payments, Map Service for routing, and Notifications for sending notifications. Interactions show how users and functionalities interact and utilize external services.
+
 
 ## Level 2: Container diagram
 
@@ -26,7 +32,57 @@ Level 2, a container diagram, zooms into the software system, and shows the cont
 
 ![image](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/assets/161967498/6920601a-386a-490a-b39c-e89be451ba25)
 
-Explanation:
+## Explanation:
+
+The architecture is divided into several key components: MobileApp, Services, Database, and External Services. Here’s a detailed explanation of each component:
+
+### 1. MobileApp Component
+This component represents the user interfaces of the TezYatra application. It is divided into two parts:
+
+#### Passenger Mobile App: 
+This is the application interface used by passengers to book rides, make payments, view ride history, and more.
+#### Driver Mobile App:
+This is the application interface used by drivers to accept ride requests, navigate to passenger locations, track earnings, and manage their profile.
+
+### 2. Services Component
+This component represents the backend services that support the functionalities of the TezYatra application. Each service handles a specific aspect of the application's operations:
+
+#### User Service:
+Manages user authentication, profile information, and user-related data.
+#### Ride Service:
+Handles ride requests, matching passengers with drivers, ride status updates, and ride history.
+#### Payment Service: 
+Manages payment processing, fare calculation, and transaction history.
+#### Notification Service: 
+Handles sending notifications to users and drivers, such as ride confirmations, updates, and alerts.
+#### Map Service:
+Provides map-related functionalities, such as route calculation, ETA estimations, and location tracking.
+#### Rating Service: 
+Manages ratings and reviews from passengers and drivers, helping maintain service quality.
+#### Support Service:
+Provides customer support features, handling user inquiries, and resolving issues.
+### 3. Database Component
+This component represents the various databases used to store data for the TezYatra application. Each database is dedicated to a specific type of data:
+
+#### User Database: 
+Stores user information, including profiles, authentication details, and preferences.
+#### Ride Database: 
+Stores details about rides, including ride requests, ongoing rides, ride history, and status updates.
+#### Payment Database: 
+Stores payment-related data, including transaction records, fare details, and payment methods.
+#### Notification Database: 
+Stores notification logs and preferences.
+#### Rating Database: 
+Stores ratings and reviews given by users and drivers.
+#### Support Database: 
+Stores customer support tickets, inquiries, and resolution details.
+### 4. External Services Component
+This component includes external services that the TezYatra application relies on to function correctly:
+
+#### Payment Gateway:
+An external service that handles payment processing, ensuring secure transactions between users and the TezYatra application.
+#### Map Service: 
+An external mapping service (such as Google Maps or Mapbox) that provides geolocation, routing, and mapping functionalities.
 
 
 ## Level 3: Component diagram
