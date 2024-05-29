@@ -11,7 +11,7 @@ Key Internal Stakeholders <br> <br>
 **Project Manager:** Oversees project execution, manages the team, schedules tasks, and communicates with all stakeholders. <br> <br>
 **Development Team:** Comprising software engineers, UI/UX designers, and QA testers responsible for developing and testing the mobile application. <br> <br>
 **IT Support Team:** Ensures the technical infrastructure supports the app's development, deployment, and maintenance. <br> <br>
-**Marketing Team:** Develops and implements marketing strategies to promote Rapido. <br> <br>
+**Marketing Team:** Develops and implements marketing strategies to promote Tez Yatra. <br> <br>
 **Sales Team:** Engages potential partners and users to adopt the platform. <br> <br>
 **Human Resources:** Manages recruitment, training, and employee welfare, ensuring the project team is well-supported.<br> <br>
 <hr>
@@ -19,8 +19,8 @@ Key Internal Stakeholders <br> <br>
 ## External Stakeholders
 External stakeholders are individuals or organizations outside the company with an interest in the project's outcome. <br>
 **Key External Stakeholders** <br> <br>
-**Passengers:** Users who book rides through the Rapido app. <br> <br>
-**Drivers:** Individuals providing ride services through the Rapido platform. <br> <br>
+**Passengers:** Users who book rides through the Tez Yatra app. <br> <br>
+**Drivers:** Individuals providing ride services through the Tez Yatra platform. <br> <br>
 **Regulatory Bodies:** Ensure the project complies with transportation and safety regulations. <br> <br>
 **Vendors/Suppliers:** Provide necessary tools, software, and hardware for the project. <br> <br>
 **Investors:** Provide capital and expect returns on their investment. <br> <br>
@@ -30,14 +30,14 @@ External stakeholders are individuals or organizations outside the company with 
 ## Hidden Stakeholders
 Hidden stakeholders are those who may not be immediately apparent but have an indirect influence on the project. <br>
 **Key Hidden Stakeholders** <br> <br>
-**Competitors: **Their market strategies and offerings can impact Rapido’s positioning and features.<br> <br>
+**Competitors: **Their market strategies and offerings can impact Tez Yatra’s positioning and features.<br> <br>
 **Local Communities:** Residents and businesses that may be affected by increased ride-share activities.<br> <br>
 **Media and Influencers:** Their reviews and coverage can shape public perception and influence adoption rates.<br> <br>
-**Public Transport Authorities: **Their policies and cooperation can affect the integration and acceptance of Rapido.<br> <br>
+**Public Transport Authorities: **Their policies and cooperation can affect the integration and acceptance of Tez Yatra.<br> <br>
 <hr>
 
 ## Project Build Team
-The project build team consists of individuals directly responsible for creating and delivering the Rapido platform. <br>
+The project build team consists of individuals directly responsible for creating and delivering the Tez Yatra platform. <br>
 **Key Roles in the Project Build Team** <br> <br>
 **Project Manager:** John Doe, responsible for overall project management and coordination.<br> <br>
 **Lead Software Engineer:** Jane Smith, oversees the technical development and ensures coding standards.<br> <br>
