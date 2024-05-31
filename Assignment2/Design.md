@@ -64,3 +64,4 @@ e. Compliance with Regulations: Ensure compliance with relevant data protection 
 ## Conclusion:
 The Tez Yatra platform is designed to provide a user-centric, scalable, secure, efficient, and reliable solution for quick and convenient motorcycle and scooter rides. By adhering to the outlined design principles and incorporating the suggested components, the system aims to enhance the overall urban commuting experience, reduce traffic congestion, and promote sustainable travel practices.
 
+![Activity Diagram](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/assets/75171741/54d393fc-dbf3-425f-99c2-4d134b3bd99f)
