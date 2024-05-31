@@ -1,6 +1,6 @@
-**User Requirements Document for Tez Yatra**
+# **User Requirements Document for Tez Yatra**
 
-**System Requirements:-**
+## **System Requirements:-**
 
 1) User Interface:
    The system should provide a user-friendly interface accessible via mobile applications (iOS and Android) and web browsers.
@@ -57,11 +57,11 @@
     The system should integrate with third-party services such as mapping APIs, payment gateways, and communication platforms for enhanced functionality and user experience.
 
 
-**Objective:-**
+## **Objective:-**
 
 Tez Yatra's project objectives encompass a multifaceted approach aimed at revolutionizing urban transportation. At its core, Tez Yatra seeks to provide commuters with a convenient, efficient, and cost-effective alternative to traditional modes of travel. Through its mobile app platform, It aims to streamline the process of booking rides, offering users quick access to two-wheeler, four-wheeler and auto transportation solutions with just a few taps. By leveraging the widespread availability of motorcycles and scooters, Tez Yatra optimizes urban mobility, particularly in areas with heavy traffic congestion or limited public transportation options. Moreover, affordability is a key focus, with Tez Yatra employing shared rides and competitive pricing to cater to budget-conscious commuters. Safety is paramount, with stringent driver screening processes, vehicle safety checks, and real-time ride tracking features ensuring the well-being of both riders and passengers. User experience is prioritized through an intuitive app interface that simplifies the booking process, fosters clear communication, and allows for personalized preferences and feedback. Beyond individual convenience, Tez Yatra recognizes its role in promoting sustainable urban mobility practices. By encouraging shared rides and reducing reliance on single-occupancy vehicles, it also aims to minimize environmental impact and alleviate traffic congestion. Expansion and growth are also central objectives, with Tez Yatra seeking to extend its services to new cities and regions, establishing itself as a leader in the ride-sharing industry through strategic partnerships, market research, and continuous innovation. Through its comprehensive approach, Tez Yatra aims to redefine urban transportation, offering commuters a sustainable, efficient, and enjoyable travel experience.
 
-**Target Environment:-**
+## **Target Environment:-**
 
 The target environment for Tez Yatra encompasses a variety of devices and platforms that users may utilize to access its services, ensuring accessibility and convenience for all users. These include:
 
@@ -82,7 +82,7 @@ The target environment for Tez Yatra encompasses a variety of devices and platfo
    
 By catering to a variety of devices and platforms, including smartphones, web browsers, and potentially feature phones, Tez Yatra ensures that its services are accessible to a wide range of users, regardless of their preferred device or technological capabilities. This multi-platform approach enhances the accessibility and convenience of Tez Yatra's ride-sharing services, allowing users to book rides seamlessly from wherever they are.
 
-**Constraints and assumptions:**
+## **Constraints and assumptions:**
 
 **Constraints:**
 1) Network Connectivity: The functionality of the Tez Yatra app depends on a stable internet connection. 
@@ -102,7 +102,7 @@ By catering to a variety of devices and platforms, including smartphones, web br
    longer wait times or difficulty in finding rides during peak hours or in areas with lower demand for 
    transportation services.
 
-   **Assumptions:**
+ ##  **Assumptions:**
 1) Driver Availability: The effectiveness of the Tez Yatra app assumes the availability of drivers willing 
    to provide rides within the user's vicinity. While efforts are made to maintain a sufficient number of 
    drivers, factors such as driver availability, peak hours, and location may impact the availability of 
@@ -120,44 +120,42 @@ By catering to a variety of devices and platforms, including smartphones, web br
    provided within the app, their effectiveness depends on users and drivers following safety protocols 
    and exercising caution during the ride.
 
-   **User requirements for Tez Yatra:**
+ ##  **User requirements for Tez Yatra:**
    
 1) User Needs:
-   The Tez Yatra app should meet the following user needs:
-
-A) Efficiently book rides for convenient transportation
-B) Provide real-time updates on ride status and driver location
-C) Offer transparent pricing and payment options for rides
-D) Ensure safety measures for both riders and drivers
-E) Facilitate easy communication between riders and drivers
+   The Tez Yatra app should meet the following user needs:<br>
+A) Efficiently book rides for convenient transportation<br>
+B) Provide real-time updates on ride status and driver location<br>
+C) Offer transparent pricing and payment options for rides<br>
+D) Ensure safety measures for both riders and drivers<br>
+E) Facilitate easy communication between riders and drivers<br>
 
 2) App Features and Functionalities:
-   The Tez Yatra app should include the following features and functionalities to meet user needs:
-
-A) Quick and seamless ride booking process
-B) Real-time ride tracking and status updates
-C) Transparent fare estimation and payment options
-D) Safety features such as SOS alerts and emergency assistance
-E) In-app messaging for communication between riders and drivers
+   The Tez Yatra app should include the following features and functionalities to meet user needs:<br>
+A) Quick and seamless ride booking process <br>
+B) Real-time ride tracking and status updates <br>
+C) Transparent fare estimation and payment options <br>
+D) Safety features such as SOS alerts and emergency assistance <br>
+E) In-app messaging for communication between riders and drivers <br>
 
 3) Performance Requirements:
-   The Tez Yatra app should meet the following performance requirements:
+   The Tez Yatra app should meet the following performance requirements:<br>
 
-A) Fast and responsive user interface for smooth navigation and booking experience
-B) Reliable real-time updates on ride status and driver location
-C) Secure and stable connection for seamless communication and payment processing
-D) High levels of reliability and availability to ensure users can book rides whenever needed
+A) Fast and responsive user interface for smooth navigation and booking experience<br>
+B) Reliable real-time updates on ride status and driver location<br>
+C) Secure and stable connection for seamless communication and payment processing<br>
+D) High levels of reliability and availability to ensure users can book rides whenever needed<br>
 
 4) User Interface and Design:
-   The Tez Yatra app should have a user-friendly interface and design, including:
+   The Tez Yatra app should have a user-friendly interface and design, including:<br>
 
-A) Intuitive and easy-to-use interface for effortless ride booking
-B) Clear and concise information presentation for ride details and pricing
-C) Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience
+A) Intuitive and easy-to-use interface for effortless ride booking<br>
+B) Clear and concise information presentation for ride details and pricing<br>
+C) Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience<br>
 
 5) Security Requirements:
 
-A) The user's personal and payment information should be kept confidential and secure.
-B) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.
-C) Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.
+A) The user's personal and payment information should be kept confidential and secure.<br>
+B) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.<br>
+C) Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.<br>
 
