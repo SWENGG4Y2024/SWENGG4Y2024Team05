@@ -62,7 +62,7 @@ Test Case 6: Cross-Browser Compatibility Preconditions: None
 Test Steps: Open the Tez Yatra on different web browsers (Chrome, Firefox, Safari). Perform various actions and verify the functionality and appearance. Expected Result: The system should work consistently and correctly on all supported browsers.
 
 ### 4.5. User Acceptance Testing
-User acceptance testing is used to determine whether the product is working for the user correctly. Specific requirements which are quite often used by the customers are primarily picked for testing purposes. 
+Specific requirements which are quite often used by the customers are primarily picked for testing purposes. 
 
 ### 5. Test Procedures
 5.1. Functional Testing:
