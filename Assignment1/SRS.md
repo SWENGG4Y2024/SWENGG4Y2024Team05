@@ -63,7 +63,7 @@
     The primary purpose of a Tez Yatra is to help users find and offer rides to others. Users can search for available rides based on their origin, destination, and preferred time of travel. They can also offer rides to others by specifying their route, time, and car capacity.
 
   - ### 1.4 Scope 
-    The scope of a carpool project is to develop a software application that connects drivers with passengers who are traveling in the same direction. The Tez Yatra allows users to find and offer rides to others, split the cost of travel expenses, and reduce the number of single-occupancy vehicles on the road. The software can be used by commuters, travelers, or people looking to save money on transportation costs
+    The scope of a carpool project is to develop a software application that connects drivers with passengers who are traveling in the same direction. The Tez Yatra allows users to find and offer rides to others, split the cost of travel expenses, and reduce the number of single-occupancy vehicles on the road. Users can schedule their ride for future in advance. The software can be used by commuters, travelers, or people looking to save money on transportation costs
 
   - ### 1.5 Overview
     The rest of the document contains overall description of the system which 
