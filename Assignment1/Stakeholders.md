@@ -39,11 +39,11 @@ Hidden stakeholders are those who may not be immediately apparent but have an in
 ## Project Build Team
 The project build team consists of individuals directly responsible for creating and delivering the Tez Yatra platform. <br>
 **Key Roles in the Project Build Team** <br> <br>
-**Project Manager:** John Doe, responsible for overall project management and coordination.<br> <br>
-**Lead Software Engineer:** Jane Smith, oversees the technical development and ensures coding standards.<br> <br>
-**Mobile App Developer:** Tom Johnson, focuses on developing the mobile application for iOS and Android.<br> <br>
-**UI/UX Designer:** Mark Johnson, responsible for designing the user interface and ensuring a seamless user experience.<br> <br>
-**QA Tester:** Sarah Lee, conducts testing to ensure the app meets quality standards.<br> <br>
-**DevOps Engineer:** Mike Brown, manages the deployment pipeline and infrastructure automation.<br> <br>
-**Business Analyst:** Emily Davis, gathers requirements and ensures the app aligns with business needs.<br> <br>
-**Technical Writer:** Kevin Miller, creates user documentation and training materials.<br> <br>
+**Project Manager:** Responsible for overall project management and coordination.<br> <br>
+**Lead Software Engineer:** Oversees the technical development and ensures coding standards.<br> <br>
+**Mobile App Developer:** Focuses on developing the mobile application for iOS and Android.<br> <br>
+**UI/UX Designer:** Responsible for designing the user interface and ensuring a seamless user experience.<br> <br>
+**QA Tester:** Conducts testing to ensure the app meets quality standards.<br> <br>
+**DevOps Engineer:** Manages the deployment pipeline and infrastructure automation.<br> <br>
+**Business Analyst:** Gathers requirements and ensures the app aligns with business needs.<br> <br>
+**Technical Writer:** Creates user documentation and training materials.<br> <br>
