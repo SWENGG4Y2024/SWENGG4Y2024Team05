@@ -56,11 +56,6 @@
 12) Integration with Third-Party Services:
     The system should integrate with third-party services such as mapping APIs, payment gateways, and communication platforms for enhanced functionality and user experience.
 
-
-## **Objective:-**
-
-Tez Yatra's project objectives encompass a multifaceted approach aimed at revolutionizing urban transportation. At its core, Tez Yatra seeks to provide commuters with a convenient, efficient, and cost-effective alternative to traditional modes of travel. Through its mobile app platform, It aims to streamline the process of booking rides, offering users quick access to two-wheeler, four-wheeler and auto transportation solutions with just a few taps. By leveraging the widespread availability of motorcycles and scooters, Tez Yatra optimizes urban mobility, particularly in areas with heavy traffic congestion or limited public transportation options. Moreover, affordability is a key focus, with Tez Yatra employing shared rides and competitive pricing to cater to budget-conscious commuters. Safety is paramount, with stringent driver screening processes, vehicle safety checks, and real-time ride tracking features ensuring the well-being of both riders and passengers. User experience is prioritized through an intuitive app interface that simplifies the booking process, fosters clear communication, and allows for personalized preferences and feedback. Beyond individual convenience, Tez Yatra recognizes its role in promoting sustainable urban mobility practices. By encouraging shared rides and reducing reliance on single-occupancy vehicles, it also aims to minimize environmental impact and alleviate traffic congestion. Expansion and growth are also central objectives, with Tez Yatra seeking to extend its services to new cities and regions, establishing itself as a leader in the ride-sharing industry through strategic partnerships, market research, and continuous innovation. Through its comprehensive approach, Tez Yatra aims to redefine urban transportation, offering commuters a sustainable, efficient, and enjoyable travel experience.
-
 ## **Target Environment:-**
 
 The target environment for Tez Yatra encompasses a variety of devices and platforms that users may utilize to access its services, ensuring accessibility and convenience for all users. These include:
