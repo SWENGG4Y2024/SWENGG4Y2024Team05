@@ -10,7 +10,7 @@ Key Internal Stakeholders <br> <br>
 **Project Sponsor:** Provides funding and strategic direction for the project. <br> <br>
 **Project Manager:** Oversees project execution, manages the team, schedules tasks, and communicates with all stakeholders. <br> <br>
 **Development Team:** Comprising software engineers, UI/UX designers, and QA testers responsible for developing and testing the mobile application. <br> <br>
-**IT Support Team:** Ensures the technical infrastructure supports the app's development, deployment, and maintenance. <br> <br>
+**Support Team:** Ensures the technical infrastructure supports the app's development, deployment, and maintenance. <br> <br>
 **Marketing Team:** Develops and implements marketing strategies to promote Tez Yatra. <br> <br>
 **Sales Team:** Engages potential partners and users to adopt the platform. <br> <br>
 **Human Resources:** Manages recruitment, training, and employee welfare, ensuring the project team is well-supported.<br> <br>
