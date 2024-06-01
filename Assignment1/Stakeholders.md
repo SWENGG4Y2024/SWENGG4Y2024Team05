@@ -1,7 +1,7 @@
 # Tez Yatra App Stakeholders
 ## Executive Summary
 <hr>
-Project Tez Yatra is an online platform designed to enhance urban mobility by enabling users to book rides quickly and conveniently from their smartphones. By connecting passengers with drivers through a user-friendly app, Tez Yatra aims to make traveling around the city more efficient and enjoyable. This document outlines the key stakeholders involved in Project Tez Yatra, their roles and responsibilities.
+Project Tez Yatra is an online platform designed to enhance urban mobility by enabling potential purchasers to book rides quickly and conveniently from their smartphones. By connecting passengers with drivers through a potential purchaser-friendly app, Tez Yatra aims to make traveling around the city more efficient and enjoyable. This document outlines the key stakeholders involved in Project Tez Yatra, their roles and responsibilities.
 <hr>
 
 ## Internal Stakeholders
@@ -12,14 +12,14 @@ Key Internal Stakeholders <br> <br>
 **Development Team:** Comprising software engineers, UI/UX designers, and QA testers responsible for developing and testing the mobile application. <br> <br>
 **Support Team:** Ensures the technical infrastructure supports the app's development, deployment, and maintenance. <br> <br>
 **Marketing Team:** Develops and implements marketing strategies to promote Tez Yatra. <br> <br>
-**Sales Team:** Engages potential partners and users to adopt the platform. <br> <br>
+**Sales Team:** Engages potential partners and potential purchasers to adopt the platform. <br> <br>
 **Human Resources:** Manages recruitment, training, and employee welfare, ensuring the project team is well-supported.<br> <br>
 <hr>
 
 ## External Stakeholders
 External stakeholders are individuals or organizations outside the company with an interest in the project's outcome. <br>
 **Key External Stakeholders** <br> <br>
-**Passengers:** Users who book rides through the Tez Yatra app. <br> <br>
+**Passengers:** potential purchasers who book rides through the Tez Yatra app. <br> <br>
 **Drivers:** Individuals providing ride services through the Tez Yatra platform. <br> <br>
 **Regulatory Bodies:** Ensure the project complies with transportation and safety regulations. <br> <br>
 **Vendors/Suppliers:** Provide necessary tools, software, and hardware for the project. <br> <br>
@@ -42,8 +42,8 @@ The project build team consists of individuals directly responsible for creating
 **Project Manager:** Responsible for overall project management and coordination.<br> <br>
 **Lead Software Engineer:** Oversees the technical development and ensures coding standards.<br> <br>
 **Mobile App Developer:** Focuses on developing the mobile application for iOS and Android.<br> <br>
-**UI/UX Designer:** Responsible for designing the user interface and ensuring a seamless user experience.<br> <br>
+**UI/UX Designer:** Responsible for designing the potential purchaser interface and ensuring a seamless potential purchaser experience.<br> <br>
 **QA Tester:** Conducts testing to ensure the app meets quality standards.<br> <br>
 **DevOps Engineer:** Manages the deployment pipeline and infrastructure automation.<br> <br>
 **Business Analyst:** Gathers requirements and ensures the app aligns with business needs.<br> <br>
-**Technical Writer:** Creates user documentation and training materials.<br> <br>
+**Technical Writer:** Creates potential purchaser documentation and training materials.<br> <br>
