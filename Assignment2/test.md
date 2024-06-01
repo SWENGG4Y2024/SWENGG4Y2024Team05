@@ -4,7 +4,7 @@
 The purpose of this document is to outline the testing approach and test cases for the Fitbit app. The Fitbit app is a mobile application that allows users to track their health and fitness goals using Fitbit wearable devices.
 
 ## 2.Testing Objectives:
-The main objectives of testing the Rapido app are as follows:
+The main objectives of testing the Tez Yatra app are as follows:
 
 Cross-Platform Functionality: Ensure the app functions correctly on different mobile platforms (iOS and Android).
 
