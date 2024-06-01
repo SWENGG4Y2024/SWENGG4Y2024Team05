@@ -30,10 +30,10 @@ External stakeholders are individuals or organizations outside the company with 
 ## Hidden Stakeholders
 Hidden stakeholders are those who may not be immediately apparent but have an indirect influence on the project. <br>
 **Key Hidden Stakeholders** <br> <br>
-**Competitors: **Their market strategies and offerings can impact Tez Yatra’s positioning and features.<br> <br>
+**Competitors:** Their market strategies and offerings can impact Tez Yatra’s positioning and features.<br> <br>
 **Local Communities:** Residents and businesses that may be affected by increased ride-share activities.<br> <br>
 **Media and Influencers:** Their reviews and coverage can shape public perception and influence adoption rates.<br> <br>
-**Public Transport Authorities: **Their policies and cooperation can affect the integration and acceptance of Tez Yatra.<br> <br>
+**Public Transport Authorities:** Their policies and cooperation can affect the integration and acceptance of Tez Yatra.<br> <br>
 <hr>
 
 ## Project Build Team
