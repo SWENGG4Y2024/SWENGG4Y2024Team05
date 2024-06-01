@@ -10,7 +10,7 @@
 - [2. Description](#2-description)
    -  [2.1 Product Perspective](#21-product-perspective)
    -  [2.2 Product Features](#22-product-features)
-   -  [2.3 potential purchaser Classes and Characteristics](#23-potential purchaser-classes-and-characteristics)
+   -  [2.3 Potential Purchaser Classes and Characteristics](#23-Potential-Purchaser-Classes-and-Characteristics)
    -  [2.4 Operating Environment](#24-operating-environment)
    -  [2.5 Design and Implementation Constraints](#25-design-and-implementation-constraints)
    -  [2.6 Assumptions & Dependencies](#26-assumptions--dependencies)
