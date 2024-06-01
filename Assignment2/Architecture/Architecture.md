@@ -12,7 +12,8 @@ Shows the system in scope, external users (actors), and other systems that inter
 ### Audience: 
 Non-technical stakeholders, such as project sponsors and business analysts.
 
-![image](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/assets/161967498/370f2a41-697a-4f33-ac01-ffd7b0d93dd1)
+![image](https://github.com/SWENGG4Y2024/SWENGG4Y2024Team05/assets/161967498/b2fa1c9f-3db0-401f-91ab-ff9910ce6512)
+
 
 ## Explanation:
 
