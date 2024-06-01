@@ -45,7 +45,7 @@
         
 
       - #### Developers
-        To gain detailed knowledge of the system requirements and functionalities.
+        To develop and gain detailed knowledge of the system requirements and functionalities.
         
 
       - #### Project Managers:
