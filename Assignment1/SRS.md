@@ -24,7 +24,7 @@
 
 ## 1. Introduction
    - ### 1.1 Purpose
-     The purpose of this Software Requirements Specification (SRS) document is to detail the functional and non-functional requirements for Project Rapido. The document provides a comprehensive guide for the development and implementation of the Tez Yatra ride-booking platform, ensuring all stakeholders have a clear understanding of the system's capabilities and limitations.
+     The purpose of this Software Requirements Specification (SRS) document is to detail the functional and non-functional requirements for Project Tez Yatra. The document provides a comprehensive guide for the development and implementation of the Tez Yatra ride-booking platform, ensuring all stakeholders have a clear understanding of the system's capabilities and limitations.
 
    -  ### 1.2 Intended Audience
 
@@ -60,10 +60,10 @@
         These are the government agencies responsible for regulating and overseeing carpool services. They may be transportation departments, public utilities commissions, or other regulatory bodies.
       
   - ### 1.3 Intended Use
-    The primary purpose of a Quick Ride is to help users find and offer rides to others. Users can search for available rides based on their origin, destination, and preferred time of travel. They can also offer rides to others by specifying their route, time, and car capacity.
+    The primary purpose of a Tez Yatra is to help users find and offer rides to others. Users can search for available rides based on their origin, destination, and preferred time of travel. They can also offer rides to others by specifying their route, time, and car capacity.
 
   - ### 1.4 Scope 
-    The scope of a carpool project is to develop a software application that connects drivers with passengers who are traveling in the same direction. The Quick Ride allows users to find and offer rides to others, split the cost of travel expenses, and reduce the number of single-occupancy vehicles on the road. The software can be used by commuters, travelers, or people looking to save money on transportation costs
+    The scope of a carpool project is to develop a software application that connects drivers with passengers who are traveling in the same direction. The Tez Yatra allows users to find and offer rides to others, split the cost of travel expenses, and reduce the number of single-occupancy vehicles on the road. The software can be used by commuters, travelers, or people looking to save money on transportation costs
 
   - ### 1.5 Overview
     The rest of the document contains overall description of the system which 
@@ -266,25 +266,25 @@
 ## 4. Interface Requirements
 
 - ### 4.1 User Interface : 
-   The Quick Ride should have a user-friendly interface that allows users to easily find and offer rides. The interface should include search and booking functionality, as well as options to set preferences for ride times, pickup and drop-off locations, and payment methods.
+   The Tez Yatra should have a user-friendly interface that allows users to easily find and offer rides. The interface should include search and booking functionality, as well as options to set preferences for ride times, pickup and drop-off locations, and payment methods.
 
 - ### 4.2 Driver Interface : 
    Drivers should have a separate interface that allows them to manage their ride schedules, view passenger information, and track their earnings.
 
 - ### 4.3 Mobile Compatibility : 
-   The Quick Ride should be compatible with mobile devices, including smartphones and tablets. This will allow users to easily access the software on the go and find rides when they need them.
+   The Tez Yatra should be compatible with mobile devices, including smartphones and tablets. This will allow users to easily access the software on the go and find rides when they need them.
 
 - ### 4.4 Accessibility : 
-   The Quick Ride should be designed to be accessible to users with disabilities. This may include features such as screen reader compatibility, high-contrast displays, and keyboard shortcuts.
+   The Tez Yatra should be designed to be accessible to users with disabilities. This may include features such as screen reader compatibility, high-contrast displays, and keyboard shortcuts.
 
 - ### 4.5 Security and Privacy : 
-   The Quick Ride should have a secure interface that protects user information and prevents unauthorized access. This may include features such as encryption, two-factor authentication, and user verification processes.
+   The Tez Yatra should have a secure interface that protects user information and prevents unauthorized access. This may include features such as encryption, two-factor authentication, and user verification processes.
 
 - ### 4.6 Integration with Other Services : 
-   The Quick Ride should be able to integrate with other transportation services, such as public transit systems, to provide users with a seamless travel experience.
+   The Tez Yatra should be able to integrate with other transportation services, such as public transit systems, to provide users with a seamless travel experience.
 
 - ### 4.7 Customizability : 
-   The Quick Ride should have a customizable interface that allows users to set their own preferences and personalize their experience. This may include features such as custom search filters, saved ride preferences, and personalized notifications.
+   The Tez Yatra should have a customizable interface that allows users to set their own preferences and personalize their experience. This may include features such as custom search filters, saved ride preferences, and personalized notifications.
 
 ## 5. Conclusion
   In this document, the functional and other requirements of the system are described. Furthermore, the needs of the user are stated through the document. However, all requirements are not defined and some of the requirements needs to be clarified in this document.
