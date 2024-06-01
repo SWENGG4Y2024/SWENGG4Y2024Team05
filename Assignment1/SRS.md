@@ -28,7 +28,7 @@
 
    -  ### 1.2 Intended Audience
 
-      - #### Users
+      - #### Passengers
         These are the people who will be using the carpool service to find rides or offer rides to others. They may be commuters, travelers, or people looking to save money on transportation costs.
 
       
@@ -78,7 +78,8 @@
 ## 2. Description
 
    - ### 2.1 Product Perspective
-        Designing and developing a platform that enables carpooling among individuals traveling to similar destinations. The main goal of the product would be to reduce traffic congestion, decrease carbon emissions, and provide an affordable transportation option for commuters.
+        Designing and developing a platform that enables carpooling among individuals traveling to similar destinations.
+     The Tez Yatra allows users to find and offer rides to others, split the cost of travel expenses, and reduce the number of single-occupancy vehicles on the road. Users can schedule their ride for future in advance. The software can be used by commuters, travelers, or people looking to save money on transportation costs.Also it would be helpful to reduce traffic congestion, decrease carbon emissions, and provide an affordable transportation option for commuters.
 
    - ### 2.2 Product Features
 
@@ -107,7 +108,7 @@
        The platform can send notifications to users regarding the status of their ride bookings, any updates or changes to the rides, and other relevant information.
 
      - #### Route Optimization :
-       The platform can optimize the routes for the rides to ensure that users reach their destinations as quickly and efficiently as possible.
+       The platform can optimize the routes for the rides using GPS to ensure that users reach their destinations as quickly and efficiently as possible.
 
      - #### Cost Sharing :
        The platform can calculate the cost of the ride and distribute it among the users who are sharing the ride.
@@ -117,6 +118,9 @@
 
       - #### History and Analytics :
         The platform can maintain a record of past rides, user ratings, and other data that can be used for analysis and insights.
+
+      - #### Schedule for future :
+        users can simply request a cab well in advance and have it at your doorstep, as planned.
 
    - ### 2.3 User Classes and Characteristics
 
@@ -186,7 +190,7 @@
     Users should be able to communicate with each other through the carpool platform to coordinate the details of the ride and ensure a smooth and safe travel experience.
 
   - #### Rating and Feedback : 
-    Users should be able to rate and provide feedback on the drivers and riders to help improve the quality and safety of the carpool service.
+    Users should be able to rate and provide feedback on the drivers and riders to help improve the quality and safety of the carpool service and vice versa.
 
   - #### Ride Cancellation : 
     Users should be able to cancel a ride if necessary, but with a reasonable cancellation policy to avoid inconveniencing other users.
@@ -280,10 +284,7 @@
 - ### 4.5 Security and Privacy : 
    The Tez Yatra should have a secure interface that protects user information and prevents unauthorized access. This may include features such as encryption, two-factor authentication, and user verification processes.
 
-- ### 4.6 Integration with Other Services : 
-   The Tez Yatra should be able to integrate with other transportation services, such as public transit systems, to provide users with a seamless travel experience.
-
-- ### 4.7 Customizability : 
+- ### 4.6 Customizability : 
    The Tez Yatra should have a customizable interface that allows users to set their own preferences and personalize their experience. This may include features such as custom search filters, saved ride preferences, and personalized notifications.
 
 ## 5. Conclusion
