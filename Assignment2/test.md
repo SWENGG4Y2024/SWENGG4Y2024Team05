@@ -1,7 +1,7 @@
 # Tez Yatra Testing Document
 
 ## 1.Introduction:
-The purpose of this document is to outline the testing approach and test cases for the Tez Yatra app. The Tez Yatra app is a mobile application that allows users to track their health and fitness goals using Tez Yatra wearable devices.
+The purpose of this document is to outline the testing approach and test cases for the Tez Yatra app. The Tez Yatra app is a mobile application that allows users to book and track their rides using Tez Yatra wearable devices.
 
 ## 2.Testing Objectives:
 The main objectives of testing the Tez Yatra app are as follows:
@@ -20,7 +20,7 @@ Performance Assessment: Assess the app's performance, responsiveness, and usabil
 The test environment for the Tez Yatra includes:
 
 Operating System: Windows 10, macOS, Android, iOS
-Web Browsers: Chrome, Firefox, Safari
+Web Browsers: Chrome, Firefox
 Mobile Devices: iPhone X, Samsung Galaxy S10
 Database: MySQL
 Test Automation Framework: Selenium WebDriver
@@ -32,23 +32,30 @@ Test Case 1: User Registration
 Preconditions: None
 
 Test Steps: Open the Tez Yatra. Click on the "Sign Up" button. Fill in the required fields with valid data. Click on the "Submit" button. Expected Result: The user should be successfully registered and redirected to the home page.
-Test Case 2: Creating a Car Pool Request
+Test Case 2: Creating a booking Request
 
 Preconditions: User is logged in.
 
-Test Steps: Open theTez Yatra. Click on the "Create Request" button. Fill in the required fields with valid data. Click on the "Submit" button. Expected Result: The car pool request should be created and displayed on the user's dashboard.
+Test Steps: Open the Tez Yatra app. Click on the "Create Ride" button. Fill in the required fields with valid data. Click on the "Submit" button.
+Expected Result: The ride request should be created and displayed on the user's dashboard.
+
 ### 4.2. Performance Testing:
 Test Case 3: Load Testing Preconditions: None
 
-Test Steps: Simulate concurrent user traffic on the system. Perform various actions such as user registration, creating requests, and searching for available rides. Expected Result: The system should handle the load without significant performance degradation.
+Test Steps: Simulate concurrent user traffic on the system. Perform various actions such as user registration, creating requests, and searching for available rides.
+Expected Result: The system should handle the load without significant performance degradation.
+
 ### 4.3. Usability Testing:
 Test Case 4: User Interface Navigation Preconditions: User is logged in.
 
-Test Steps: Open the Tez Yatra. Navigate through different pages and sections of the system. Verify the ease of navigation and the intuitiveness of the user interface. Expected Result: The system should have a user-friendly interface with easy navigation.
+Test Steps: Open the Tez Yatra. Navigate through different pages and sections of the system. Verify the ease of navigation and the intuitiveness of the user interface. 
+Expected Result: The system should have a user-friendly interface with easy navigation.
+
 ### 4.4. Security Testing:
 Test Case 5: User Authentication Preconditions: User account exists in the system.
 
-Test Steps: Open the Tez Yatra. Enter the correct username and an incorrect password. Click on the "Login" button. Expected Result: The system should not allow access and display an authentication error message.
+Test Steps: Open the Tez Yatra. Enter the correct username and an incorrect password. Click on the "Login" button. 
+Expected Result: The system should not allow access and display an authentication error message.
 4.5. Compatibility Testing:
 Test Case 6: Cross-Browser Compatibility Preconditions: None
 
@@ -56,9 +63,10 @@ Test Steps: Open the Tez Yatra on different web browsers (Chrome, Firefox, Safar
 
 ### 4.5. User Acceptance Testing
 User acceptance testing is used to determine whether the product is working for the user correctly. Specific requirements which are quite often used by the customers are primarily picked for testing purposes. 
+
 ### 5. Test Procedures
 5.1. Functional Testing:
-Execute Test Case 1: User Registration Execute Test Case 2: Creating a Car Pool Request
+Execute Test Case 1: User Registration Execute Test Case 2: Creating a booking Request
 
 5.2. Performance Testing:
 Set up a test environment to simulate concurrent user traffic. Execute Test Case 3: Load Testing
@@ -80,6 +88,7 @@ Performance Testing: Week 2
 Usability Testing: Week 3
 Security Testing: Week 4
 Compatibility Testing: Week 5
+
 ### 7. Test Deliverables
 The following deliverables will be provided upon completion of the testing process:
 
@@ -87,5 +96,6 @@ Test plan document
 Test cases and test procedures
 Test execution reports
 Defect reports
+
 ### 8. Conclusion
 This document outlines the testing approach for the Tez Yatra. By following this plan, we aim to ensure the quality, functionality, performance, usability, security, and compatibility of the system. Any identified issues or defects will be documented and addressed to deliver a reliable and user-friendly Tez Yatra.
