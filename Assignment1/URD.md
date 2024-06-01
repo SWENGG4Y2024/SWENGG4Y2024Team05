@@ -71,9 +71,6 @@ The target environment for Tez Yatra encompasses a variety of devices and platfo
 3) Feature Phones: Recognizing the diverse user base in certain regions, Tez Yatra may also provide access 
    to its services through SMS or USSD-based platforms, allowing users with basic feature phones to book 
    rides via text messages or dial-in services.
-4) Partner Platforms: Tez Yatra may also collaborate with third-party platforms and services, such as 
-   ride- hailing aggregators, to expand its reach and accessibility to users who may prefer to book rides 
-   through other platforms they are already familiar with.
    
 By catering to a variety of devices and platforms, including smartphones, web browsers, and potentially feature phones, Tez Yatra ensures that its services are accessible to a wide range of users, regardless of their preferred device or technological capabilities. This multi-platform approach enhances the accessibility and convenience of Tez Yatra's ride-sharing services, allowing users to book rides seamlessly from wherever they are.
 
