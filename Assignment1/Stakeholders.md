@@ -1,7 +1,7 @@
 # Tez Yatra App Stakeholders
 ## Executive Summary
 <hr>
-Project Tez Yatra is an online platform designed to enhance urban mobility by enabling users to book rides quickly and conveniently from their smartphones. By connecting passengers with drivers through a user-friendly app, Tez Yatra aims to make traveling around the city more efficient and enjoyable. This document outlines the key stakeholders involved in Project Tez Yatra, their roles and responsibilities, and the strategies for effective stakeholder engagement.
+Project Tez Yatra is an online platform designed to enhance urban mobility by enabling users to book rides quickly and conveniently from their smartphones. By connecting passengers with drivers through a user-friendly app, Tez Yatra aims to make traveling around the city more efficient and enjoyable. This document outlines the key stakeholders involved in Project Tez Yatra, their roles and responsibilities.
 <hr>
 
 ## Internal Stakeholders
