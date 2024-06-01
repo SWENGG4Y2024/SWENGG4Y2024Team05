@@ -117,7 +117,7 @@ By catering to a variety of devices and platforms, including smartphones, web br
 
  ##  **User requirements for Tez Yatra:**
    
-1) User Needs:
+### 1) User Needs:
    The Tez Yatra app should meet the following user needs:<br>
 A) Efficiently book rides for convenient transportation<br>
 B) Provide real-time updates on ride status and driver location<br>
@@ -125,7 +125,7 @@ C) Offer transparent pricing and payment options for rides<br>
 D) Ensure safety measures for both riders and drivers<br>
 E) Facilitate easy communication between riders and drivers<br>
 
-2) App Features and Functionalities:
+### 2) App Features and Functionalities:
    The Tez Yatra app should include the following features and functionalities to meet user needs:<br>
 A) Quick and seamless ride booking process <br>
 B) Real-time ride tracking and status updates <br>
@@ -133,7 +133,7 @@ C) Transparent fare estimation and payment options <br>
 D) Safety features such as SOS alerts and emergency assistance <br>
 E) In-app messaging for communication between riders and drivers <br>
 
-3) Performance Requirements:
+### 3) Performance Requirements:
    The Tez Yatra app should meet the following performance requirements:<br>
 
 A) Fast and responsive user interface for smooth navigation and booking experience<br>
@@ -141,14 +141,14 @@ B) Reliable real-time updates on ride status and driver location<br>
 C) Secure and stable connection for seamless communication and payment processing<br>
 D) High levels of reliability and availability to ensure users can book rides whenever needed<br>
 
-4) User Interface and Design:
+### 4) User Interface and Design:
    The Tez Yatra app should have a user-friendly interface and design, including:<br>
 
 A) Intuitive and easy-to-use interface for effortless ride booking<br>
 B) Clear and concise information presentation for ride details and pricing<br>
 C) Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience<br>
 
-5) Security Requirements:
+### 5) Security Requirements:
 
 A) The user's personal and payment information should be kept confidential and secure.<br>
 B) The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.<br>
