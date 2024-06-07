@@ -86,4 +86,49 @@ By catering to a variety of devices and platforms, including smartphones, web br
 ### Assumptions
 
 1. **Driver Availability:**
-   - The effectiveness of the Tez Yatra app assumes the availability of drivers willing to provide rides within the
+   - The effectiveness of the Tez Yatra app assumes the availability of drivers willing to provide rides within the user's vicinity. While efforts are made to maintain a sufficient number of drivers, factors such as driver availability, peak hours, and location may impact the availability of rides.
+
+2. **User Availability:**
+   - The Tez Yatra app assumes that users are available and ready to book rides when needed. While the app provides real-time updates and notifications, the availability of users to accept ride offers or initiate ride requests may vary depending on factors such as their schedule, location, and personal preferences.
+
+3. **Internet Connectivity:**
+   - The Tez Yatra app relies on a stable internet connection to function optimally. It assumes that users have access to reliable internet connectivity on their mobile devices to book rides, make payments, and receive real-time updates. In cases where users face interruptions in internet connectivity, their ability to use the app effectively may be compromised.
+
+4. **Safety Measures:**
+   - The Tez Yatra app assumes that users and drivers adhere to safety guidelines and regulations during rides. While safety features such as real-time ride tracking and SOS alerts are provided within the app, their effectiveness depends on users and drivers following safety protocols and exercising caution during the ride.
+
+## **User Requirements for Tez Yatra**
+
+### 1. User Needs
+   The Tez Yatra app should meet the following user needs:
+   - Efficiently book rides for convenient transportation
+   - Provide real-time updates on ride status and driver location
+   - Offer transparent pricing and payment options for rides
+   - Ensure safety measures for both riders and drivers
+   - Facilitate easy communication between riders and drivers
+
+### 2. App Features and Functionalities
+   The Tez Yatra app should include the following features and functionalities to meet user needs:
+   - Quick and seamless ride booking process
+   - Real-time ride tracking and status updates
+   - Transparent fare estimation and payment options
+   - Safety features such as SOS alerts and emergency assistance
+   - In-app messaging for communication between riders and drivers
+
+### 3. Performance Requirements
+   The Tez Yatra app should meet the following performance requirements:
+   - Fast and responsive user interface for smooth navigation and booking experience
+   - Reliable real-time updates on ride status and driver location
+   - Secure and stable connection for seamless communication and payment processing
+   - High levels of reliability and availability to ensure users can book rides whenever needed
+
+### 4. User Interface and Design
+   The Tez Yatra app should have a user-friendly interface and design, including:
+   - Intuitive and easy-to-use interface for effortless ride booking
+   - Clear and concise information presentation for ride details and pricing
+   - Consistent design across all platforms (e.g., iOS, Android) for a seamless user experience
+
+### 5. Security Requirements
+   - The user's personal and payment information should be kept confidential and secure.
+   - The application should implement encryption and other security measures to protect user data from unauthorized access or breaches.
+   - Safety features such as background checks for drivers and safety training should be in place to ensure the well-being of both riders and drivers.
